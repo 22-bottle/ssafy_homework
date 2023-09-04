@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=311ff90cb92584e0b3ae210545602da67c5fb552
 eclipse.preferences.version=1
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1690011790773" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1690011790773" name\="jdk-17.0.2" path\="C\:\\Program Files\\Java\\jdk-17.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
-=======
-eclipse.preferences.version=1
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1689836218438" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1689836218438" name\="zulu-8" path\="C\:\\Program Files\\Zulu\\zulu-8"/>\r\n</vmType>\r\n</vmSettings>\r\n
->>>>>>> 311ff90cb92584e0b3ae210545602da67c5fb552
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1690202678225" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1690202678225" name\="jdk-17.0.2" path\="C\:\\Program Files\\Java\\jdk-17.0.2"/>\r\n    </vmType>\r\n</vmSettings>\r\n
