@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div align="center">
+		<h1><a href="mygeneric.do">mygeneric.do.do</a></h1>
+		<h1><a href="myservlet.do">myservlet.do</a></h1>
+		<h1><a href="paramservlet.do?op1=1&op2=13">getparam</a></h1>
+		<form action="paramservlet.do" method="post">
+			<label for="iop1">op1 : </label><input type="text" id="iop1" name="nop1" >
+			<label for="iop2">op2 : </label><input type="text" id="iop2" name="nop2" >
+			<label for="res">res : </label><input type="text" id="res" name="res" readonly="readonly" >
+			<br/>
+			<input type="checkbox" name="check" value="html">html</input>
+			<input type="checkbox" name="check" value="css">css</input>
+			<input type="checkbox" name="check" value="javascript">javascript</input>
+			<br/>		
+			<input type="submit" value="전송">
+		</form>
+		<a href="/LocalSetvletJspEx/boardwrite.jsp">등록화면</a>
+	</div>
+</body>
+</html>

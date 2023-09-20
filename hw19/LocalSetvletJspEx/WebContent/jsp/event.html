@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1 class='h1-title' data-h1='1' >hello1</h1>
+	<h1 class='h1-title' data-h1='2' >hello2</h1>
+	<h1 class='h1-title' data-h1='3' >hello3</h1>
+	<h1 class='h1-title' data-h1='4' >hello4</h1>
+	
+	<script type="text/javascript">
+		let items = document.querySelectorAll('.h1-title');
+		items.forEach(function(item) {
+			item.addEventListener("click", function() {
+				let data = this.getAttribute('data-h1');
+				alert(data);
+			})
+		})
+	</script>
+</body>
+</html>
